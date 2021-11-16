@@ -1,0 +1,26 @@
+.container-btn {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  width: 100px;
+  height: 30px;
+  margin: 5px;
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+
+.btn-Aumentar {
+  background: green;
+}
+
+.btn-Disminuir {
+  background: rgb(32, 32, 170);
+}
+
+.btn-Recetear {
+  background: yellow;
+  color: rgb(235, 17, 17);
+}
